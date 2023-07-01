@@ -1,0 +1,180 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What's your ideal dog's weight class?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Featherweight"
+                },
+                {
+                    "id": 2,
+                    "answer": "Perfectly balanced"
+                },
+                {
+                    "id": 3,
+                    "answer": "Hefty and strong"
+                },
+                {
+                    "id": 4,
+                    "answer": "Weight is just a number"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "How high should your perfect pup reach?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Small and mighty"
+                },
+                {
+                    "id": 2,
+                    "answer": "Average and adorable"
+                },
+                {
+                    "id": 3,
+                    "answer": "Tall and majestic"
+                },
+                {
+                    "id": 4,
+                    "answer": "Height knows no bounds"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "How many happy years should your dream dog live?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Short, but oh-so-sweet"
+                },
+                {
+                    "id": 2,
+                    "answer": "Average lifespan, maximum joy"
+                },
+                {
+                    "id": 3,
+                    "answer": "Long and fulfilling journey"
+                },
+                {
+                    "id": 4,
+                    "answer": "Forever young at heart"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "How much shedding are you willing to tolerate?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Minimal shedding"
+                },
+                {
+                    "id": 2,
+                    "answer": "A little hair is fine"
+                },
+                {
+                    "id": 3,
+                    "answer": "Shedding happens, no worries"
+                },
+                {
+                    "id": 4,
+                    "answer": "The more hair, the merrier"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "What's your preferred level of barking?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Silent as a whisper"
+                },
+                {
+                    "id": 2,
+                    "answer": "Occasional woofs are okay"
+                },
+                {
+                    "id": 3,
+                    "answer": "Let the barks be heard"
+                },
+                {
+                    "id": 4,
+                    "answer": "Barking is music to my ears"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question": "How energetic would you like your dog to be?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Low energy, laid-back"
+                },
+                {
+                    "id": 2,
+                    "answer": "Moderate energy, balanced"
+                },
+                {
+                    "id": 3,
+                    "answer": "High energy, always on the go"
+                },
+                {
+                    "id": 4,
+                    "answer": "Endless energy, ready for anything"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question": "How important is protectiveness in a dog?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Gentle and friendly to all"
+                },
+                {
+                    "id": 2,
+                    "answer": "Moderately protective"
+                },
+                {
+                    "id": 3,
+                    "answer": "Fearless guardian instincts"
+                },
+                {
+                    "id": 4,
+                    "answer": "Protection is not a priority"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question": "What level of trainability are you looking for in a dog?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Independent thinker"
+                },
+                {
+                    "id": 2,
+                    "answer": "Willing to learn with patience"
+                },
+                {
+                    "id": 3,
+                    "answer": "Quick learner, eager to please"
+                },
+                {
+                    "id": 4,
+                    "answer": "Training? Let's play instead!"
+                }
+            ]
+        }
+    ]
+}
